@@ -8,4 +8,4 @@ aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 logo: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fciberninjas.com%2Frecursos-dam%2F&psig=AOvVaw3db-W0N15KHBjKMrBevhui&ust=1728642588631000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJi4_JjOg4kDFQAAAAAdAAAAABAE"
 search_enabled: false
-favicon_ico: ""
+favicon_ico: "/assets/images/favicon.ico"
