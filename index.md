@@ -1,5 +1,5 @@
 ---
-title: https://github.com/javifdzalv/javifdzalv.github.io/blob/main/image.png
+title: Indice
 layout: home
 ---
 
