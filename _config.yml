@@ -7,6 +7,5 @@ url: https://just-the-docs.github.io
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 search_enabled: false
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
 nav_order: 2
