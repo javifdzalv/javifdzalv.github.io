@@ -1,6 +1,5 @@
 ---
 title: Página 2 
 layout: home
-parent:Indice
----
+parent: Página 3
 
