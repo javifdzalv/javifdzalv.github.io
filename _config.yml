@@ -11,3 +11,5 @@ favicon_ico: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHL
 nav_order: 2
  configure-pages
  
+
+logo: "/assets/images/just-the-docs.png"
